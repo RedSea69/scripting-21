@@ -1,0 +1,27 @@
+header{
+    background-image: url('../images/FeatureImg-Lethbridge.jpg');
+    background-size: cover;
+    background-position: center;
+
+    height: 50vh;
+}
+
+#ServicesHeader{
+    background-image: url('../images/backgrounds/servicesheader.jpg');
+}
+
+.bg-purple{
+    background-color:rgb(43, 95, 226);
+}
+
+.nav-link{
+    color:rgb(221, 160, 236) !important;
+}
+
+.navbar-brand{
+    color:rgb(255, 186, 108) !important;
+}
+
+footer a, footer a:visited{
+    color:rgb(43, 95, 226) !important;
+}
